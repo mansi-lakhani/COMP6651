@@ -1,4 +1,4 @@
-TARGET = 40197791_detector.py
+TARGET = detector.py
 
 FILE1 =
 FILE2 =
